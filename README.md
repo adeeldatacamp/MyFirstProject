@@ -1,4 +1,4 @@
 # MyFirstProject
 My First Project on GitHub
 <br>
-Author: Adeel Shehzad
+Author: Adeel Shehzad Khokhar 
